@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LoanManagement/FileContentIndex/1a5140ef-527e-47e1-a351-e83222e3cdc8.vsidx
+/.vs/LoanManagement/FileContentIndex/22dd34ba-1a0f-4384-ba95-918ae9c3c14d.vsidx
+/.vs/LoanManagement/FileContentIndex/610b33fb-0231-4e61-8c90-aa72e3b4c16c.vsidx
+/.vs/LoanManagement/FileContentIndex/87f6574f-9cea-4bd0-86da-8b5a4a7d5baf.vsidx
+/.vs/LoanManagement/FileContentIndex/99f6c068-97c7-4834-9f7c-faf7a2b2d167.vsidx
+/Loan.Domain/Loan.Domain/.vs/LoanManagement/FileContentIndex/5331421a-4468-4186-ac9b-721706123024.vsidx
+/Loan.Domain/Loan.Domain/.vs/LoanManagement/FileContentIndex/65bc5b38-c344-449a-9060-187681d2296c.vsidx
+/Loan.Domain/Loan.Domain/.vs/LoanManagement/FileContentIndex/a7c2837c-4366-4290-a1e9-75580942bd49.vsidx
+/Loan.Domain/Loan.Domain/.vs/LoanManagement/FileContentIndex/f7eb521a-6c4f-4279-9597-18cc9c379ace.vsidx
+/.vs/LoanManagement/FileContentIndex/76d9a67c-741b-4248-9087-321822e69958.vsidx

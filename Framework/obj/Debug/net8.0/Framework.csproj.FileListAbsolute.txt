@@ -1,0 +1,12 @@
+C:\Users\behi\source\repos\LoanManagement\Framework\bin\Debug\net8.0\Framework.deps.json
+C:\Users\behi\source\repos\LoanManagement\Framework\bin\Debug\net8.0\Framework.dll
+C:\Users\behi\source\repos\LoanManagement\Framework\bin\Debug\net8.0\Framework.pdb
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.AssemblyInfoInputs.cache
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.AssemblyInfo.cs
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.csproj.CoreCompileInputs.cache
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.sourcelink.json
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.dll
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\refint\Framework.dll
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\Framework.pdb
+C:\Users\behi\source\repos\LoanManagement\Framework\obj\Debug\net8.0\ref\Framework.dll

@@ -1,0 +1,16 @@
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\bin\Debug\net8.0\Loan.Domain.deps.json
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\bin\Debug\net8.0\Loan.Domain.dll
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\bin\Debug\net8.0\Loan.Domain.pdb
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\bin\Debug\net8.0\Framework.dll
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\bin\Debug\net8.0\Framework.pdb
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.csproj.AssemblyReference.cache
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.AssemblyInfoInputs.cache
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.AssemblyInfo.cs
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.csproj.CoreCompileInputs.cache
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.sourcelink.json
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.csproj.CopyComplete
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.dll
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\refint\Loan.Domain.dll
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\Loan.Domain.pdb
+C:\Users\behi\source\repos\LoanManagement\Loan.Domain\Loan.Domain\obj\Debug\net8.0\ref\Loan.Domain.dll
