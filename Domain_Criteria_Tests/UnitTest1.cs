@@ -28,5 +28,35 @@ namespace Domain_Criteria_Tests
             Assert.True(result);
 
         }
+
+        [Fact]
+        public void Builder_Style_Check_IF_Loan_Duration_Satisfied()
+        {
+            //Arrange
+            var specCriteria = new LoanCriteria(new LoanReceiving() { Duration=5 });
+
+            //Act
+            specCriteria.CheckDuration().ApplyCriteria();
+
+            //Assert
+            Assert.True(specCriteria.Result);
+        }
+
+        [Fact]
+        public void Builder_Style_Check_IF_Loan_Duration_Amount_Satisfied()
+        {
+            //Arrange
+            var specCriteria = new LoanCriteria(new LoanReceiving() { Duration = 5, Amount=5 });
+
+            //Act
+            specCriteria
+                .CheckDuration()
+                .ApplyCriteria()
+                .CheckAmount()
+                .ApplyCriteria();
+
+            //Assert
+            Assert.True(specCriteria.Result);
+        }
     }
 }
